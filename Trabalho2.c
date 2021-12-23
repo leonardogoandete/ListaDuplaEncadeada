@@ -29,13 +29,13 @@ int main(int argc, char *argv[]) {
         printf("--------------------------------------------");
     		break;
     	case 'b':
-        printf("\nDigite a posição a remover:");
+        printf("\nDigite a posiï¿½ï¿½o a remover:");
         scanf("%d", &posicao);
         //removerContato(&l, &pAux);
         printf("--------------------------------------------");
     		break;
     	case 'c':
-    	printf("\nDigite a posição a ser consultar:");
+    	printf("\nDigite a posiï¿½ï¿½o a ser consultar:");
         scanf("%d", &posicao);
         //consultarPosicao(&l, pessoa);
         printf("--------------------------------------------");
